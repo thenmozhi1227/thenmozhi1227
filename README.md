@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Thenmozhi 👋
 
-<!--
-**thenmozhi1227/thenmozhi1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Aspiring Python Developer | CSE Student
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about learning programming and building useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- 🐍 Python
+- 🗄️ SQL
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+
+### 🌱 Currently Learning
+
+- Python Development
+- Data Structures & Algorithms
+- SQL
+- Web Development
+
+### 🚀 Projects
+
+I'm currently working on projects to improve my programming and problem-solving skills.
+
+### 🎯 Career Goal
+
+To become a skilled Python Developer and build real-world applications.
+
+### 📫 Connect With Me
+
+- GitHub: [@thenmozhi1227](https://github.com/thenmozhi1227)
+
+---
+
+⭐ Thanks for visiting my profile!
